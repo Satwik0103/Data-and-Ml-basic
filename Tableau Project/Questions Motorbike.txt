@@ -1,0 +1,12 @@
+Questions- Annual Motorbike data analysis
+
+Q-1)Show  Total selling price of motorbikes annually?
+Q-2)From which year hike in the pricing started to occur?
+Q-3)What are the top 10 bikes according to selling price.?
+Q-4)What is the total milage covered by motorbike based on ownership.?
+Q-5)What is the max and min range of mileage given by each motorbike?
+Q-6)Name top 10 bikes taking mielage as the parameter?
+Q-7)Based on ownership which owner stating bikes performed well?
+Q-8)Does purchasing from dealer is beneficial than purchasing from individual?
+Q-9)Display annual km driven on basis of ownership?
+Q-10)Calculate profit earned comparing selling price and actual price on basis of seller type?
